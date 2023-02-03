@@ -1,0 +1,38 @@
+html {
+    background: linear-gradient(177.52deg, #6C00FF 2.11%, #3C79F5 81.34%);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+body {
+    font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+}
+
+h2, footer {
+    font-family: 'Mansalva';
+}
+
+button {
+    border: none;
+}
+
+.itens-comprados {
+text-decoration: line-through;
+}
+
+.borda-lista {
+    border-bottom: dotted 2px #3C79F5;
+}
+
+input:disabled {
+    border: none;
+    background: none;
+    color: black;
+}
+
+input {
+    border: none;
+    background: none;
+    color: black;
+}
+
